@@ -1,6 +1,6 @@
 # Olá👋! Eu sou o Matheus Ferreira👨🏻‍💻
-Atualmente estou cursando Análise e desenvolvimento de sistemas na Universidade de Fortaleza.<br>
-busco sempre aprender coisas novas e aprimora, com foco em desenvolvimento web.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.<br>
+busco sempre aprender coisas novas e me aprimorar, com foco em desenvolvimento web.
 <hr>
 
 # 🚀Tecnologias que utilizo
