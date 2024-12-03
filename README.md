@@ -3,7 +3,7 @@ Atualmente estou cursando Análise e desenvolvimento de sistemas na Universidade
 busco sempre aprender coisas novas e aprimora, com foco em desenvolvimento web.
 <hr>
 
-<h1>Tecnologias que utilizo</h1>
+# 🚀Tecnologias que utilizo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattferreira1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattferreira1&layout=compact&theme=radical)
