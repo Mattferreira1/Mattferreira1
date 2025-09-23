@@ -20,7 +20,7 @@ busco sempre aprender coisas novas e me aprimorar, com foco em desenvolvimento w
 
 # 🌱O que estou estudando
 
-<p>Atualmente estou estudando React e Node.js</p>
+<p>Atualmente estou estudando NextJs e TypeScript</p>
 <hr>
 
 # 🎯Estou em busca
